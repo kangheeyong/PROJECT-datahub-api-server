@@ -1,0 +1,8 @@
+*.un~
+*.swp
+*.so
+*.pyc
+*.log
+*.pid
+__pycache__
+
